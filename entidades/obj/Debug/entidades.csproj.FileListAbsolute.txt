@@ -1,0 +1,6 @@
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\entidades\bin\Debug\entidades.dll
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\entidades\bin\Debug\entidades.pdb
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\entidades\obj\Debug\entidades.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\entidades\obj\Debug\entidades.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\entidades\obj\Debug\entidades.dll
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\entidades\obj\Debug\entidades.pdb

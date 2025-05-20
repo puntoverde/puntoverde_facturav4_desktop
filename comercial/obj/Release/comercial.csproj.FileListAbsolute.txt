@@ -1,0 +1,11 @@
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\comercial\bin\Release\comercial.dll
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\comercial\bin\Release\comercial.pdb
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\comercial\bin\Release\contpaqSDK.dll
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\comercial\bin\Release\entidades.dll
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\comercial\bin\Release\contpaqSDK.pdb
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\comercial\bin\Release\entidades.pdb
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\comercial\obj\Release\comercial.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\comercial\obj\Release\comercial.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\comercial\obj\Release\comercial.dll
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\comercial\obj\Release\comercial.pdb
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\comercial\obj\Release\comercial.csproj.Up2Date

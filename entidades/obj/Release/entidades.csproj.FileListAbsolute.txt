@@ -1,0 +1,6 @@
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\entidades\bin\Release\entidades.dll
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\entidades\bin\Release\entidades.pdb
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\entidades\obj\Release\entidades.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\entidades\obj\Release\entidades.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\entidades\obj\Release\entidades.dll
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\entidades\obj\Release\entidades.pdb

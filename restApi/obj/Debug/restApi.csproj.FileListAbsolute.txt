@@ -1,0 +1,13 @@
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\restApi\bin\Debug\restApi.dll
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\restApi\bin\Debug\restApi.pdb
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\restApi\bin\Debug\comercial.dll
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\restApi\bin\Debug\contpaqSDK.dll
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\restApi\bin\Debug\entidades.dll
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\restApi\bin\Debug\comercial.pdb
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\restApi\bin\Debug\contpaqSDK.pdb
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\restApi\bin\Debug\entidades.pdb
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\restApi\obj\Debug\restApi.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\restApi\obj\Debug\restApi.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\restApi\obj\Debug\restApi.csproj.Up2Date
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\restApi\obj\Debug\restApi.dll
+C:\Users\Administrador\Desktop\Factura4.0Contpaq\restApi\obj\Debug\restApi.pdb

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <configSections>
+    <!-- For more information on Entity Framework configuration, visit http://go.microsoft.com/fwlink/?LinkID=237468 -->
+  </configSections>
+
+  <system.web>
+    <compilation debug="true" targetFramework="4.0" />
+  </system.web>
+
+  
+
+  <system.serviceModel>
+    <bindings>
+      <webHttpBinding>
+        <binding name="webHttpBindingJsonP" crossDomainScriptAccessEnabled="true" maxBufferPoolSize="2147483647" maxReceivedMessageSize="2147483647" maxBufferSize="2147483647" transferMode="Streamed" />
+      </webHttpBinding>
+    </bindings>
+    <services>
+      <service name="restApi.WCFCompaq" behaviorConfiguration="ServiceBehaviour">
+        <host>
+        </host>
+      </service>
+    </services>
+    <behaviors>
+      <serviceBehaviors>
+        <behavior name="ServiceBehaviour">
+          <dataContractSerializer maxItemsInObjectGraph="2147483647" />
+          <serviceMetadata httpGetEnabled="true" httpsGetEnabled="true" />
+          <serviceDebug httpHelpPageEnabled="true" includeExceptionDetailInFaults="true" />
+        </behavior>
+      </serviceBehaviors>
+      <endpointBehaviors>
+        <behavior name="webBehavior">
+          <enableWebScript />
+          <!--need set automaticFormatSelectionEnabled attribute -->
+          <webHttp automaticFormatSelectionEnabled="true" defaultOutgoingResponseFormat="Json" />
+        </behavior>
+      </endpointBehaviors>
+    </behaviors>
+  </system.serviceModel>
+  
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+    </startup>
+  
+  <appSettings>
+    <add key="URLServiciosDesktop" value="https://idc.edu.mx/Jesuitas_webServices/web" />
+    <add key="Correo" value="pv@gmail.com" />
+    <add key="Binding" value="inceptio5" />
+    <add key="baseAddress" value="http://192.168.2.151:8015" />
+    <add key="ClientSettingsProvider.ServiceUri" value="" />
+  </appSettings>
+
+  <system.web>
+    <membership defaultProvider="ClientAuthenticationMembershipProvider">
+      <providers>
+        <add name="ClientAuthenticationMembershipProvider" type="System.Web.ClientServices.Providers.ClientFormsAuthenticationMembershipProvider, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" serviceUri="" />
+      </providers>
+    </membership>
+    <roleManager defaultProvider="ClientRoleProvider" enabled="true">
+      <providers>
+        <add name="ClientRoleProvider" type="System.Web.ClientServices.Providers.ClientRoleProvider, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" serviceUri="" cacheTimeout="86400" />
+      </providers>
+    </roleManager>
+  </system.web>
+  
+</configuration>
